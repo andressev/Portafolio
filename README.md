@@ -12,6 +12,10 @@ Está operación se hace cada frame para todos los pixeles, entonces para hacer 
 Finalmente para implementar la reactividad al sonido, los colores 
 
 
+https://github.com/user-attachments/assets/2fb7996d-0327-410d-b647-0b63e2e9dda4
+
+
+
 https://user-images.githubusercontent.com/61235325/139309169-f8a0af2c-0478-4656-9931-435eec9c327b.mp4
 
 https://www.youtube.com/watch?v=ScF4T-9ZkrM
