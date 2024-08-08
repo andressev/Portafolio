@@ -15,3 +15,7 @@ Finalmente para implementar la reactividad al sonido, los colores
 https://github.com/user-attachments/assets/2fb7996d-0327-410d-b647-0b63e2e9dda4
 
 
+
+
+https://github.com/user-attachments/assets/b777e95d-9722-4abf-80b7-a50f66db7060
+
