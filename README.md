@@ -9,8 +9,5 @@ El primer proyecto que hice con GLSL en touch designer es una herramienta para e
 
 Está operación se hace cada frame para todos los pixeles, entonces para hacer los movimietnos del fractal, solamente había que desplazar, recudir o incrementar el rango de los identificadores. Es decir para ver más a la izquierda del fractal, debiamos hacer que los pixeles vayan de [-2,0] en "x" y en "y" permanecieran iguales. 
 
-Finalmente para implementar la reactividad al sonido, los colores 
-
-
 https://github.com/user-attachments/assets/45790cdb-8b24-425b-8f4a-bef6a2e42f66
 
