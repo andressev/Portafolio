@@ -12,5 +12,5 @@ Está operación se hace cada frame para todos los pixeles, entonces para hacer 
 Finalmente para implementar la reactividad al sonido, los colores 
 
 
-![Mandelbto](https://www.youtube.com/watch?v=ScF4T-9ZkrM)
+ Full Video - <a href = "https://www.youtube.com/watch?v=ScF4T-9ZkrM"> Displacement Native </a><br>
 
