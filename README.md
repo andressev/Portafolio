@@ -9,7 +9,7 @@ Hola, me llamo Andrés, soy un estudiante de Matemáticas Aplicadas y Ciencias d
 
 **GridSpace Engine HLSL - UNITY**
 
-[GridSpace](https://github.com/andressev/GridSpacee) es el proyecto en el que llevo trabajando los últimos meses. Es un motor de autómatas celulares, un autómata celular es cualquier regla que se le aplique individualmente a un grupo de píxeles, en el caso de GridSpace 1028x512 píxeles. Las reglas principalmente consisten en preguntarle a un píxel sobre su entorno, ¿cuántos píxeles están prendidos en un radio de n? Con la respuesta puedes decirle al píxel que se apague, que se prenda, que no haga nada, etc. El punto es que hay una infinidad de reglas posibles, una infinidad de entornos posibles. A cada una de estas acomodaciones posibles lo llamaremos estados.
+[GridSpace](https://github.com/andressev/GridSpacee) es el proyecto en el que llevo trabajando los últimos meses. Es un motor de autómatas celulares, un autómata celular es cualquier regla que se le aplique individualmente a un grupo de píxeles, en el caso de GridSpace: 1028x512 píxeles. Las reglas principalmente consisten en preguntarle a un píxel sobre su entorno, ¿cuántos píxeles están prendidos en un radio de n? Con la respuesta puedes decirle al píxel que se apague, que se prenda, que no haga nada, etc. El punto es que hay una infinidad de reglas posibles, una infinidad de entornos posibles. A cada una de estas acomodaciones posibles lo llamaremos estados.
 
 El motor está construido utilizando compute shaders y un sistema de buffers dinámicos, lo que permite procesar las reglas de los autómatas celulares de manera eficiente en la GPU. Esto facilita la exploración de un vasto espacio de estados posibles en tiempo real.
 
