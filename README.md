@@ -24,8 +24,13 @@ El proposito de GridSpace es compartir con sus usuarios un pedazo de este espaci
 Después el usuario usando los controles puede mutar las reglas para encontrar los estados más interesantes.
 
 **Mutation mode** 
+
+![GridSPace Portafolio](https://github.com/user-attachments/assets/15eea6ea-17d4-42ae-805a-d90a68d3d044)
+
+
 En este modo el usuario ya no necesita crear vecindarios, estos se generan y cambian automaticamente con las mutaciones. Cada uno de los estados esta codificado en una sequencia de 32 enteros. En todo gridspace existen 10^308 estados posibles, la cantidad de átomos en el universo son 10^80. 
-[Video de gameplay MutationMode]()
+
+[Video de gameplay MutationMode](https://www.youtube.com/watch?v=BqFUAaOdQgY)
   
 ## Pointcloud Experiments
 
