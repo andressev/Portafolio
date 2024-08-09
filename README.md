@@ -1,7 +1,7 @@
 
 # Intro
 
-Hola, me llamo Andrés, soy un estudiante de Matemáticas Aplicadas y Ciencias de Datos en el ITAM. Paso mi tiempo diseñando y jugando con programas que produzcan resultados interesantes; tanto estéticos como experiencias interactivas. Trabajo principalmente con Unity y TouchDesigner. Debajo se encuentra mi portafolio, que contiene mis proyectos más relevantes y las técnicas que he aprendido para poder implementarlos.
+Hola, me llamo Andrés, soy un estudiante en Ciudad de Méxco de Matemáticas Aplicadas y Ciencias de Datos en el ITAM. Paso mi tiempo diseñando y jugando con programas que produzcan resultados interesantes; tanto estéticos como experiencias interactivas. Trabajo principalmente con Unity y TouchDesigner. Debajo se encuentra mi portafolio, que contiene mis proyectos más relevantes y las técnicas que he aprendido para poder implementarlos.
 
 # Portafolio
 
