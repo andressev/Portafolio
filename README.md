@@ -4,18 +4,6 @@ Me llamo Andrés soy un estudiante de matemáticas aplicadas y ciencias de datos
 
 
 ## Portafolio 
-**Mandelbrot GLSL-TouchDesigner**
-
-Este proyecto es una herramienta para explorar el famoso conjunto de mandelbrot. Posteriormente, convertí el fractal en audioreactivo. La implementación es relativamente simple, convertimos la textura a un espacio que va de [-1, 1] en "x" y igual en "y", dejando a cada pixel con un identificador en ese rango. Asignamos un valor ¨resultado¨ y en un loop se hace una operación al resultado que depende de la vuelta pasada. Dependiendo de que tanto  crezca "resultado", es como coloreamos el pixel. 
-
-Está operación se hace cada frame para todos los pixeles, entonces para hacer los movimietnos del fractal, solamente había que desplazar, reducir o incrementar el rango de los identificadores. Es decir para ver más a la izquierda del fractal, debiamos hacer que los pixeles vayan de [-2,0] en "x" y en "y" permanecieran iguales. 
-
-https://github.com/user-attachments/assets/45790cdb-8b24-425b-8f4a-bef6a2e42f66
-
-
-
-
-
 
 
   
@@ -45,6 +33,27 @@ Finalmente ajustamos los ángulos de nuestros nuevos puntos. El resultado ya no 
 
 
 https://github.com/user-attachments/assets/4e5555e4-b39c-4b27-b432-19360064908a
+
+
+## Mandelbrot
+**Mandelbrot 2D GLSL-TouchDesigner**
+
+Este proyecto es una herramienta para explorar el famoso conjunto de mandelbrot. Posteriormente, convertí el fractal en audioreactivo. La implementación es relativamente simple, convertimos la textura a un espacio que va de [-1, 1] en "x" y igual en "y", dejando a cada pixel con un identificador en ese rango. Asignamos un valor ¨resultado¨ y en un loop se hace una operación al resultado que depende de la vuelta pasada. Dependiendo de que tanto  crezca "resultado", es como coloreamos el pixel. 
+
+Está operación se hace cada frame para todos los pixeles, entonces para hacer los movimietnos del fractal, solamente había que desplazar, reducir o incrementar el rango de los identificadores. Es decir para ver más a la izquierda del fractal, debiamos hacer que los pixeles vayan de [-2,0] en "x" y en "y" permanecieran iguales. 
+
+https://github.com/user-attachments/assets/45790cdb-8b24-425b-8f4a-bef6a2e42f66
+
+
+**Mandelbrot 3D Raymarched**
+
+Después de unos meses aprendí un poco de raymarching, que es una técnica para proyectar  y crear formas tridimensionales en un plano a través de funciones de distancia. Encontré una función para una versión 3D de mandelbrot y con touchdesigner y algunos trucos de iluminación este fue el resultado. 
+
+
+
+https://github.com/user-attachments/assets/5d88fa54-8d69-4e60-a4db-23ef1f518690
+
+
 
 
 
