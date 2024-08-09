@@ -13,7 +13,7 @@ Hola, me llamo Andrés, soy un estudiante de Matemáticas Aplicadas y Ciencias d
 
 El punto es que hay una infinidad de reglas posibles, una infinidad de entornos posibles. A cada una de estas acomodaciones posibles lo llamaremos estados. Los estados por lo general son bastante caóticos, pero de vez en cuando se organizan para crear algo que asemeja a la vida celular.
 
-El motor está construido utilizando compute shaders y un sistema de buffers dinámicos, lo que permite procesar las reglas de los autómatas celulares de manera eficiente en la GPU. Esto facilita la exploración de un vasto espacio de estados posibles en tiempo real.
+El motor está construido utilizando compute shaders y un sistema de buffers dinámicos, lo que permite procesar las reglas de los autómatas celulares de manera eficiente en el GPU. Esto facilita la exploración de un vasto espacio de estados posibles en tiempo real.
 
 El propósito de GridSpace es compartir con sus usuarios un pedazo de este espacio infinito y facilitar el viaje entre todos los estados. [Aquí](https://github.com/andressev/GridSpacee) se puede descargar GridSpace.
 
