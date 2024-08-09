@@ -61,6 +61,8 @@ Este proyecto es una herramienta para explorar el famoso conjunto de Mandelbrot.
 
 Esta operación se hace cada frame para todos los píxeles, entonces, para hacer los movimientos del fractal, solamente había que desplazar, reducir o incrementar el rango de los identificadores. Es decir, para ver más a la izquierda del fractal, debíamos hacer que los píxeles vayan de [-2,0] en "x" y en "y" permanecieran iguales.
 
+**Sound On**
+
 https://github.com/user-attachments/assets/45790cdb-8b24-425b-8f4a-bef6a2e42f66
 
 **Mandelbrot 3D Raymarched**
