@@ -1,6 +1,6 @@
 ## Intro
 
-Me llamo Andrés soy un estudiante de matemáticas aplicadas y ciencias de datos en el ITAM. Paso todo mi tiempo diseñando y jugando con programas que produzcan resultados interesantes, tanto estéticos como experiencias interactivas. Trabajo principalmente con unity y touchdesigner. Debajo se encuentra mi portafolio que contiene los proyectos más relevantes que hecho en el ultimo año y las técnicas que he aprendido para poder implementarlos.
+Me llamo Andrés soy un estudiante de matemáticas aplicadas y ciencias de datos en el ITAM. Paso todo mi tiempo diseñando y jugando con programas que produzcan resultados interesantes, tanto estéticos como experiencias interactivas. Trabajo principalmente con Unity y TouchDesigner. Debajo se encuentra mi portafolio que contiene los proyectos más relevantes que hecho en el ultimo año y las técnicas que he aprendido para poder implementarlos.
 
 
 ## Portafolio 
@@ -27,10 +27,21 @@ Este año hice dos proyectos interesantes con, pointclouds, el primero:
 
 **Spherical Gravity TouchDesiger GLSL**
 
-400,000 puntos iniciales, se pueden aplicar 2 tipos de movimientos. El primero incrementar la gravedad y mover el centro de gravedad. 
-
+Este proyecto nace de un video que habla sobre que es realmente la gravedad, que no es una fuerza como tal que jala a los objetos. Mas bien un campo gravitacional literalmente dobla el espacio. Las líneas blancas representan el espaico tridimensional en el que habitamos, son contraidas por el objeto en el centro, entre más se contraen más fuerza gravitacional tiene el objeto. 
 
 https://github.com/user-attachments/assets/5176f8b3-8e50-479f-a63c-6b3ed25c5d67
+
+
+Las líneas están hechas de 200,000 puntos en total aprox. Cada punto tiene una coordenada y usando un pixel shader que lee las coordenadas XYZ como colores RGB, se aplica la transformación. Dependiendo que tan lejos este el pixel del centro gravitaciónal es más notorio el efecto. En la video anterior se puede ver como se aumenta y decrementa la fuerza gravitacional. 
+
+
+**Coordenadas polares**
+Me pareció interesante que pasaría si además de aplicar gravedad también aplicaramos una transformación a coordenadas polares. Básicamente cualquier punto (x,y) lo podemos ver como un vector y sacar su tamaño y ángulo de inclinación nos daría sus coordenadas polares. 
+
+Finalmente ajustamos los ángulos de nuestros nuevos puntos. El resultado ya no se apega a la realidad pero me gusto bastante.
+
+
+https://github.com/user-attachments/assets/4e5555e4-b39c-4b27-b432-19360064908a
 
 
 
