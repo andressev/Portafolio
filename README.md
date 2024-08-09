@@ -23,7 +23,8 @@ El propósito de GridSpace es compartir con sus usuarios un pedazo de este espac
 
 **Luego escoge hasta 4 entornos/vecindarios.**
 
-![GifNHpicker](https://github.com/user-attachments/assets/4b6dffc1-a23e-48b7-85d1-b621b58c3c62)
+![GifNHpicker](https://github.com/user-attachments/assets/5dcbd464-9484-418f-a433-c6ba10b94331)
+
 
 Después, el usuario, usando los controles, puede mutar las reglas para encontrar los estados más interesantes.
 
