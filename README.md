@@ -5,7 +5,27 @@ Me llamo Andrés soy un estudiante de matemáticas aplicadas y ciencias de datos
 
 ## Portafolio 
 
+## GridSpace 
 
+**GridSpace Engine HLSL - UNITY** 
+
+[GridSpace](https://github.com/andressev/GridSpacee) es el proyecto en que ue llevo trabajando los ultimos meses.  Es un motor de automatas celulares, un automata celular es cualquier regla que se le aplique individualmente a un grupo de pixeles, en el caso de GridSpace 1028x512 pixeles. Las reglas principalmente consisten en preguntarle a un pixel sobre su entorno, cuántos pixeles estan prendiddos en un radio de n? Con la respuesta puedes decirle al pixel que se apague, que se prende, que no haga nada, etc. El punto es que hay una infinidad de reglas posibles, una infinidad de entornos posibles. A cada una de estás acomodaciones posibles lo llamaremos estados. 
+
+El proposito de GridSpace es compartir con sus usuarios un pedazo de este espacio infinito y facilitar el viaje entre todos los estados. [Aqui](https://github.com/andressev/GridSpacee) se puede descargar GridSpace. 
+
+**Inicialmente el usuario crea un entorno-vecindario para efectuar las reglas.** 
+
+![GifNeighbrohoods](https://github.com/user-attachments/assets/50d62360-fe90-4d12-9d1b-b9752f77f903)
+
+**Luego escoge hasta 4 entornos/vecindarios.**
+
+![GifNHpicker](https://github.com/user-attachments/assets/4b6dffc1-a23e-48b7-85d1-b621b58c3c62)
+
+Después el usuario usando los controles puede mutar las reglas para encontrar los estados más interesantes.
+
+**Mutation mode** 
+En este modo el usuario ya no necesita crear vecindarios, estos se generan y cambian automaticamente con las mutaciones. Cada uno de los estados esta codificado en una sequencia de 32 enteros. En todo gridspace existen 10^308 estados posibles, la cantidad de átomos en el universo son 10^80. 
+[Video de gameplay MutationMode]()
   
 ## Pointcloud Experiments
 
