@@ -36,6 +36,18 @@ En este modo, el usuario ya no necesita crear vecindarios, estos se generan y ca
 
 [Video de gameplay MutationMode](https://www.youtube.com/watch?v=BqFUAaOdQgY)
 
+
+## Realidad Aumentada - Unity
+
+
+Con mi equipo en Tera desarrollamos esta experiencias para acompañar una clase sobre los planetas. 
+
+
+https://github.com/user-attachments/assets/d7eb65f1-39c0-4983-9736-812b66cd92b7
+
+
+
+
 ## Pointcloud Experiments
 
 **Gravedad físicamente precisa TouchDesigner GLSL**
@@ -71,3 +83,5 @@ https://github.com/user-attachments/assets/45790cdb-8b24-425b-8f4a-bef6a2e42f66
 Después de unos meses, aprendí un poco de raymarching, que es una técnica para proyectar y crear formas tridimensionales en un plano a través de funciones de distancia. Encontré una función para una versión 3D de Mandelbrot y, con TouchDesigner y algunos trucos de iluminación, este fue el resultado.
 
 https://github.com/user-attachments/assets/5d88fa54-8d69-4e60-a4db-23ef1f518690
+
+
