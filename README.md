@@ -1,7 +1,7 @@
 
 # Intro
 
-Hola, me llamo Andrés, soy un estudiante en Ciudad de México de Matemáticas Aplicadas y Ciencias de Datos en el ITAM. Paso mi tiempo diseñando y jugando con programas que produzcan resultados interesantes. 
+Hola, me llamo Andrés, soy un `estudiante` en Ciudad de México de `Matemáticas` Aplicadas y Ciencias de Datos en el ITAM. Paso mi tiempo diseñando y jugando con programas que produzcan resultados interesantes. 
 
 Principalmente me interesan los `displays interactivos`, ya sean:
 
