@@ -1,7 +1,9 @@
 
 # Intro
 
-Hola, me llamo Andrés, soy un estudiante en Ciudad de México de Matemáticas Aplicadas y Ciencias de Datos en el ITAM. Paso mi tiempo diseñando y jugando con programas que produzcan resultados interesantes; tanto estéticos como experiencias interactivas. Trabajo principalmente con Unity y TouchDesigner. Debajo se encuentra mi portafolio,  contiene mis proyectos más relevantes y las técnicas que he aprendido para poder implementarlos.
+Hola, me llamo Andrés, soy un estudiante en Ciudad de México de Matemáticas Aplicadas y Ciencias de Datos en el ITAM. Paso mi tiempo diseñando y jugando con programas que produzcan resultados interesantes; principalmente me interesa los displays interactivos ya sean videojuegos educativos, estructuras intersantes que he encontrado o experiencias de realidad aumentada. Trabajo con Unity y TouchDesigner. Debajo se encuentra mi portafolio,  contiene mis proyectos más relevantes y algunas técnicas de las que he aprendido para poder implementarlos.
+
+Me puedes mandar un correo a andressevilla81@gmail.com
 
 # Portafolio
 
@@ -45,11 +47,11 @@ El jugador explora un laberíntico arrecife de corales en busca animales que pue
 
 **GridSpace Engine HLSL - UNITY**
 
-[GridSpace](https://github.com/andressev/GridSpacee) es el proyecto en el que llevo trabajando los últimos meses. Es un motor de autómatas celulares, un autómata celular es cualquier regla que se le aplique individualmente a un grupo de píxeles, en el caso de GridSpace: 1028x512 píxeles. Las reglas principalmente consisten en preguntarle a un píxel sobre su entorno, ¿cuántos píxeles están prendidos en un radio de n? Con la respuesta puedes decirle al píxel que se apague, que se prenda, que no haga nada, etc. 
+[GridSpace](https://github.com/andressev/GridSpacee) es un motor de autómatas celulares.  
+
+Un ****autómata celular**** es cualquier regla que se le aplique individualmente a un grupo de píxeles, en intervalos de tiempo. Las reglas principalmente consisten en preguntarle a un píxel sobre su entorno, ¿cuántos píxeles están prendidos en un radio de n? Con la respuesta puedes decirle al píxel que se apague, que se prenda, que no haga nada, etc. 
 
 El punto es que hay una infinidad de reglas posibles, una infinidad de entornos posibles. A cada una de estas acomodaciones posibles lo llamaremos estados. Los estados por lo general son bastante caóticos, pero de vez en cuando se organizan para crear algo que asemeja a la vida celular.
-
-El motor está construido utilizando compute shaders y un sistema de buffers dinámicos, lo que permite procesar las reglas de los autómatas celulares de manera eficiente en el GPU. Esto facilita la exploración de un vasto espacio de estados posibles en tiempo real.
 
 El propósito de GridSpace es compartir con sus usuarios un pedazo de este espacio infinito y facilitar el viaje entre todos los estados. [Aquí](https://github.com/andressev/GridSpacee) se puede descargar GridSpace.
 
