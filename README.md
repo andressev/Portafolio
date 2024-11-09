@@ -37,7 +37,7 @@ La `nueva` `versión es en 3D`, pero la idea nace de los juegos shoot 'em up de 
 
 `Un juego inspirado por el buceo.`
 
-Dive In es un juego hecho para `aprender del océano` y de las especies que viven en él.
+Se trata de `aprender del océano` y de las especies que viven en él.
 
 El jugador `explora un laberíntico arrecife` de corales en busca `de animales` que pueda conocer. Cada uno tiene `datos muy interesantes` que comparten con el jugador si los encuentra.
 
