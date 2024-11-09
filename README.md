@@ -5,11 +5,41 @@ Hola, me llamo Andrés, soy un estudiante en Ciudad de México de Matemáticas A
 
 # Portafolio
 
+## Meteorite 
+
+
+Este juego es en lo que estoy trabajando actualmente:
+Una nave viajando en el espacio a gran velocidad! Debe evitar asteroides y naves enemigas. 
+
+***Meteorite 3D***
+
+![Meteorite3dClip](https://github.com/user-attachments/assets/ed9a4dc2-f446-4bbc-b045-c096f70cdfcb)
+
+La  nueva versión es en 3D, pero la idea nace de los juegos shoot em up de los 80-90's, primero hice una versión en 2D.
+
+***Meteorite 2D***
+
+![Metoerite2dClip](https://github.com/user-attachments/assets/e97e80de-63ea-46aa-be53-cf1baaf0f02a)
+
+
 ## Dive In
 
 **Un juego inspirado por el buceo:** 
+
+Dive In es un juego hecho para aprender del oceano y de las especies que viven en el.
   
-El jugador explora un laberíntico arrecife de corales en busca animales que puda conocer, debe encontrar a todos los animales del nivel antes de que se le acabe el oxigeno!
+El jugador explora un laberíntico arrecife de corales en busca animales que pueda conocer, cada uno tiene datos muy interesantes que comparten con el jugador si los encuentra. 
+
+![DiveINlvl2clipl](https://github.com/user-attachments/assets/25ed037c-8543-4767-864e-97dca579d2ad)
+
+
+
+**No se te vaya a acabar el oxigeno!**
+
+![DiveIN1](https://github.com/user-attachments/assets/edef0bae-5085-4f4d-a9eb-0eae193c81eb)
+
+
+
 
 ## GridSpace
 
