@@ -35,7 +35,7 @@ La `nueva` `versión es en 3D`, pero la idea nace de los juegos shoot 'em up de 
 
 ## Dive In
 
-`Un juego inspirado por el buceo`
+`Un juego inspirado por el buceo.`
 
 Dive In es un juego hecho para `aprender del océano` y de las especies que viven en él.
 
