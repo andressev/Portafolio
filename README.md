@@ -1,7 +1,9 @@
 
 # Intro
 
-Hola, me llamo Andrés, soy un `estudiante` en Ciudad de México de `Matemáticas` Aplicadas y Ciencias de Datos en el ITAM. Paso mi tiempo diseñando y jugando con programas que produzcan resultados interesantes. 
+Hola, me llamo Andrés, soy un `estudiante` en Ciudad de México de `Matemáticas` Aplicadas en el ITAM. Paso mi tiempo diseñando y jugando con programas que produzcan resultados interesantes. 
+
+
 
 Principalmente me interesan los `displays interactivos`, ya sean:
 
@@ -11,17 +13,44 @@ Principalmente me interesan los `displays interactivos`, ya sean:
 
 `Realidad Aumentada`
 
-Trabajo con Unity y TouchDesigner. Debajo se encuentra mi portafolio, contiene mis proyectos más relevantes y algunas técnicas que he aprendido para poder implementarlos.
+Trabajo con Unity y TouchDesigner. Debajo se encuentra mi portafolio, inicialmente estan contiene mis proyectos más relevantes y algunas técnicas que he aprendido para poder implementarlos.
 
 Me puedes mandar un correo a **andressevilla81@gmail.com**
 
-# Portafolio
+# Proyectos Profesionales
+
+## PocketCity2+ 
+Este proyecto consistió en adaptar Pocket City 2, un `extenso y exitoso juego` en App Store, Steam y Google Play, para Apple Arcade, un catálogo con base en suscripción de Apple donde hay aproximadamente `200–300 juegos y 100 millones de usuarios`.
+
+Como `programador principal`, mi trabajo fue implementar los requerimientos de Apple Arcade, especialmente `un sistema automático de respaldo` y recuperación de datos entre dispositivos, desarrollar funcionalidades para que el juego funcione en todas las plataformas de Apple y pulir el juego completamente para la mejor experiencia del usuario.
+
+Debido a que en este proyecto `varias personas dependían de mi trabajo`, la magnitud del proyecto y los altos estándares de calidad de Apple hicieron de gran importancia realizar `trabajo limpio y sostenible`.
+
+
+<img width="477" height="270" alt="image" src="https://github.com/user-attachments/assets/d5c2dac6-6979-4c55-90ae-14df5ae64b75" />
+
+
+[Apple](https://apps.apple.com/us/app/pocket-city-2/id1533709428), [Steam](https://store.steampowered.com/app/3566200/Pocket_City_2/)
+
+
+## Farmside 
+En este proyecto realize un **update** de **Farmside**, un juego de `gran magnitud` para Apple Arcade.
+
+Aunque el trabajo de programación fue limitado, el alcance del proyecto exigía extremo cuidado en cada cambio y una ejecución rápida para cumplir `deadlines estrictos`.
+
+Fue un trabajo donde la `precisión y la velocidad` fueron clave.
+
+<img width="410" height="200" alt="image" src="https://github.com/user-attachments/assets/0f7c4a1b-c1e5-4a70-bebc-40ec1bd7e252" />
+
+[Farmside](https://farmsidegame.com/)
+
+
+
+# Proyectos personales
 
 ## Meteorite 
 
-Estoy `trabajando` en Meteorite `actualmente`:
-
-Una `nave` viajando en el espacio a `gran velocidad` que debe evitar asteroides y naves enemigas.
+Para metoerite diseñe un sistema de `AR` para controlar una `nave` viajando en el espacio a `gran velocidad` que debe evitar asteroides y naves enemigas.
 
 **Meteorite3D**
 
