@@ -1,7 +1,7 @@
 
-# Intro
+# Info personal
 
-Hola, me llamo Andrés, soy un `estudiante` en Ciudad de México de `Matemáticas` Aplicadas en el ITAM. Paso mi tiempo diseñando y jugando con programas que produzcan resultados interesantes. 
+Hola, me llamo Andrés, soy un `estudiante` en Ciudad de México de `Matemáticas` Aplicadas y Ciencias de Datos en el `ITAM`. Paso mi tiempo diseñando y jugando con programas que produzcan resultados interesantes. 
 
 
 
@@ -46,22 +46,8 @@ Fue un trabajo donde la `precisión y la velocidad` fueron clave.
 
 
 
-# Proyectos personales
-
-## Meteorite 
-
-Para metoerite diseñe un sistema de `AR` para controlar una `nave` viajando en el espacio a `gran velocidad` que debe evitar asteroides y naves enemigas.
-
-**Meteorite3D**
-
-![Meteorite3dClip](https://github.com/user-attachments/assets/ed9a4dc2-f446-4bbc-b045-c096f70cdfcb)
-
-La `nueva` `versión es en 3D`, pero la idea nace de los juegos shoot 'em up de los 80-90's y  `la primera` es `una versión en 2D.`
-
-**Meteorite2D**
-
-![Meteorite2dClip](https://github.com/user-attachments/assets/e97e80de-63ea-46aa-be53-cf1baaf0f02a)
-
+# Proyectos Educativos
+En Tera Tech una organización educativa, programe una serie de juegos los cuales apoyaban el material educativo presentado a los niños. Los mejores juegos son los siguientes. 
 ## Dive In
 
 `Un juego inspirado por el buceo.`
@@ -76,6 +62,29 @@ El jugador `explora un laberíntico arrecife` de corales en busca `de animales` 
 
 ![DiveIN1](https://github.com/user-attachments/assets/edef0bae-5085-4f4d-a9eb-0eae193c81eb)
 
+
+## Meteorite 
+
+Para metoerite diseñe un sistema de `AR` con base en el `giroscopio` para controlar una `nave` viajando en el espacio a `gran velocidad` que debe evitar asteroides y naves enemigas. El juego se mezcla con preguntas de cultura general que debe contestar el jugador para poder avanzar en el `espacio`. 
+
+**Meteorite3D**
+
+![Meteorite3dClip](https://github.com/user-attachments/assets/ed9a4dc2-f446-4bbc-b045-c096f70cdfcb)
+
+La `nueva` `versión es en 3D`, pero la idea nace de los juegos shoot 'em up de los 80-90's y  `la primera` es `una versión en 2D.`
+
+**Meteorite2D**
+
+![Meteorite2dClip](https://github.com/user-attachments/assets/e97e80de-63ea-46aa-be53-cf1baaf0f02a)
+
+
+
+## MusicBox
+Un juego de `memoria musical`, los tambores se prenden con sonidos creando una `secuencia musical`, luego debes replicar la secuencia tu! `Cada vez se pone más difícil!`
+
+<img width="374" height="180" alt="image" src="https://github.com/user-attachments/assets/f2ffffa3-57b5-437c-8bf2-6746c21ff47e" />
+
+# Proyectos Personales
 ## GridSpace
 
 **GridSpace Engine HLSL - UNITY**
